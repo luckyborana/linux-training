@@ -1,6 +1,6 @@
 # Redhat Linux Training
 
->In this the training is start fron the Day 1 Folder.
+>In this the training is start from the Day 1 Folder.
 
 ---
 
