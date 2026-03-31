@@ -1,12 +1,44 @@
-# Redhat Linux Training
+# MD Language
+## Medium Heading
+### smal heading
 
->In this the training is start from the Day 1 Folder.
+**bold it**
 
 ---
 
-## Installation of Redhat 8
+*Italic bro*
+~~strike~~
+> command
+## content spoiler
+1. [Introduction](#introduction)
+2. [anywhere](#anywhere)
 
- **Pre-Requiste** Software you want download are :-
- * Vitual Box or VMWare Workstation.
- * Redhat 8 Iso file.
- * **NOTE** Your System should have 6 to 8 GB RAM.
+- unorder
+- list
+
+`sinle code line`
+
+```
+dflkdks
+dsklj{
+{
+````
+
+|heading|Table|
+|---|---|
+|1|s|
+|2|d|
+
+
+## Introduction
+
+
+
+
+------
+
+
+
+-----
+
+## anywhere
