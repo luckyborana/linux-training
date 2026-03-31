@@ -36,8 +36,8 @@ url - nginx.org/en/linux_packages.html
 
 - To check the ruuning server:
   `curl localhost` or public id hit in browser or 127.0.0.1
-- Add the multiple website to host also for DNS
-  127.0.0.1 herolabs.internal
+- Add the multiple website to host(nano /etc/hosts) also for DNS
+  ------127.0.0.1 herolabs.internal
 
 ## Reference files
 - Default.conf
